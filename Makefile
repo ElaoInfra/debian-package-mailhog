@@ -14,6 +14,7 @@ PACKAGE_REVISION_ELAO   = 1
 PACKAGE_REVISION_JESSIE = 1
 PACKAGE_LICENSE         = MIT
 PACKAGE_HOMEPAGE        = https://github.com/mailhog/MailHog
+PACKAGE_SOURCE          = https://github.com/mailhog/MailHog/releases/download
 
 ## Maintainer
 MAINTAINER_NAME  = Elao Infra
